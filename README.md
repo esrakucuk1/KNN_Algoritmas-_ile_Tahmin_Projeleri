@@ -1,2 +1,2 @@
-# KNN_Algoritmasi_ile_Tahmin_Projeleri
-KNN Algoritması ile Tahmin Projeleri Bu repository, K-Nearest Neighbors (KNN) algoritmasını kullanarak çeşitli veri setleri üzerinden tahminler yapmayı amaçlayan projeleri içermektedir. 
+# KNN_Algoritmasi_ve_Naive_Bayes_ile_Tahmin_Projeleri
+Bu repository, K-Nearest Neighbors (KNN) algoritmasını ve Naive Bayes kullanarak çeşitli veri setleri üzerinden tahminler yapmayı amaçlayan projeleri içermektedir. 
